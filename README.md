@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tangs1989
+- 👋 Hi, I’m @joelgrant
 - 👀 I’m interested in HELIUM
 - 🌱 I’m currently learning HELIUM
 - 💞️ I’m looking to collaborate on HELIUM
